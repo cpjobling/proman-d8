@@ -1,0 +1,12 @@
+uuid: c3e1a34f-0272-4163-8b00-ff479ef095c1
+name: 'Proman D8'
+mail: engineering.proman@swansea.ac.uk
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en

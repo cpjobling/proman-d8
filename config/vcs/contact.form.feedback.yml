@@ -1,0 +1,10 @@
+uuid: 184dd847-78b0-42bd-9b27-39ab5a861b7c
+langcode: en
+status: true
+dependencies: {  }
+id: feedback
+label: 'Website feedback'
+recipients:
+  - engineering.proman@swansea.ac.uk
+reply: ''
+weight: 0

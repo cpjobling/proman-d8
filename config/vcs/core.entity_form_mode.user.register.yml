@@ -1,0 +1,10 @@
+uuid: bac01461-85e3-4f32-9261-974737cce493
+langcode: en
+status: true
+dependencies:
+  module:
+    - user
+id: user.register
+label: Register
+targetEntityType: user
+cache: true

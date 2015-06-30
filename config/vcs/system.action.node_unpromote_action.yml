@@ -1,0 +1,11 @@
+uuid: 50ca2e9f-0dcd-4702-8100-cc73137872c6
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: node_unpromote_action
+label: 'Remove content from front page'
+type: node
+plugin: node_unpromote_action
+configuration: {  }
