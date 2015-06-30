@@ -1,0 +1,7 @@
+Version 0.1.0
+ - add pete otaqui's bumpversion.sh script: https://gist.github.com/pete-otaqui/4188238
+ - Merge branch 'master' of https://github.com/cpjobling/proman-d8
+ - Initial commit
+ - initial configuration exported to config/vcs
+ - initial checkin: drupal-d8-beta12 with separate vcs folder for configuration
+
